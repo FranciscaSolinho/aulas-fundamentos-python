@@ -1,0 +1,1 @@
+print('--- Calculadora ---\n[ 1 ] - Tabuada\n[ 2 ] - Calculadora\n[ 3 ] - Fatorial\n[ 4 ] - Números primos')
