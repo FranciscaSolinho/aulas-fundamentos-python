@@ -6,7 +6,7 @@
 def valores():
     num_lista=list()
     num_maior=0
-    contador = 0
+    contador=0
     while True:
         contador+=1
         num=int(input(f'Digite o {contador}º número--> '))
