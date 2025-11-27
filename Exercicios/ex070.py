@@ -1,7 +1,7 @@
 #Crie um programa que tenha uma função chamada area()
 #que receba as dimensões de um terreno e mostre a área do terreno.
 
-def area(comprimento, largura):
+def area(comprimento:float, largura:float):
     print(f'-- A área do terreno é --> {comprimento*largura}')
 
 def menu():
